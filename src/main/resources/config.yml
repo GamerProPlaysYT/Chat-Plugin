@@ -1,0 +1,19 @@
+# This plugin is made by GamerProPlaysYT.
+# YouTube: https://www.youtube.com/c/gamerproplays
+
+# Dependencies:
+# Vault
+# Permissions Manager (e.g. LuckPerms, PEX, GroupManager, etc...)
+
+# $player - Displays the player's username.
+# $prefix - Displays the player's group/user prefix.
+# $suffix - Displays the player's group/user suffix.
+# $displayName - Displays the player's display name (e.g. '$prefix$player$suffix').
+# $message - Displays the player's message.
+
+# You can change the message format here!
+chat-format: '$displayName&7: &f$message'
+
+# This checks if the plugin is disabled or enabled.
+# You can also toggle it with /chat or /chatplugin.
+enabled: true

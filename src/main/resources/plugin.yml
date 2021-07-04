@@ -1,0 +1,10 @@
+name: ChatPlugin
+version: 1.0
+main: me.gamer.chatplugin.ChatPlugin
+depend: [ Vault ]
+authors: [ GamerProPlaysYT ]
+
+commands:
+  chat:
+    aliases:
+      - chatplugin
